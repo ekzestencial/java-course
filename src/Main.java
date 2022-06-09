@@ -3,11 +3,11 @@ import java.util.List;
 
 public class Main {
     /**
-     * @param
+     * @param args ar,df
      */
 /*
 
  */
-    public static void myMainTest() {
+    public static void myMainTest(String args) {
     }
 }
