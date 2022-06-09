@@ -1,0 +1,7 @@
+- VCS: причины появления, сферы использования (5 мин.)
+- устройство Git: staging area, local repository, remote repository, состояние файла в Git (15 мин.)
+- Подключение проекта с Hello World к удаленному реполизоторию на GitHub: git init, git remote (15 мин.)
+- Создание исключений - файл .gitignore (5 мин.)
+- Основные команды для работы с файлами и репозиториями: git add, git status, git commit, git push, git pull (20 мин.)
+- Знакомство с ветками в Git: checkout, merge vs rebase, имитация простого merge conflict (35 мин.)
+- Обзор Gitflow (10 мин.)
