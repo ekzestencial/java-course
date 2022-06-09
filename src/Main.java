@@ -8,6 +8,6 @@ public class Main {
 /*
 
  */
-    public static void myMainTest(String[] args) {
+    public static void myMainTest(String args) {
     }
 }
